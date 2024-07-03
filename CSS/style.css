@@ -1,0 +1,27 @@
+body {
+    background: gray;
+    margin-left:20px;
+}
+header{
+   
+    margin-top: 100px;
+}
+
+h1{
+    color:rgb(32, 4, 59);
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+    color:white;
+}
+
+img {
+    margin-bottom: 20px;
+}
+.email{
+    margin-bottom: 0px;
+}
+.zap{
+    margin-bottom:0px;
+}
